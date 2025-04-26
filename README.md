@@ -15,8 +15,10 @@ I'm a developer passionate about **Discord bots**, **Flask**, **Arduino projects
 
 ## 🔧 Projects I'm Working On  
 - 🎵 **Discord Music Bot** (YouTube API, discord.py)
-- 🎮 **Custom Gaming Hardware** (Arduino-based motion control)  
+- 🎮 **Custom Gaming Hardware** (Arduino-based motion control)
+- 👀 **Valorant Match Tracker Discord Bot** (discord.py, Requests, MongoDB)
 - 📂 **Copypasta API** (Flask, JSON, MongoDB)
+- 📞 **P2P Voice Chat** (PyAudio, socket, Flask, UDP NAT Hole punching)
 - and more...
 
 <h3 align="left">Languages and Tools:</h3>
